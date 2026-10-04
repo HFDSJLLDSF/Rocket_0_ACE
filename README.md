@@ -1,2 +1,2 @@
 # Rocket_0_ACE
-A rocket built from scratch!
+A rocket flight controller built from scratch!
